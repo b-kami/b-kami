@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm  AMINE KHATIB
 <a href="https://www.linkedin.com/in/amine-khatib-2350a2267/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
