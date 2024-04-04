@@ -16,6 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python script         | <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
+|conifiguration server web apache| <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
+|virtualisation/virtu_malmachine|<a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
