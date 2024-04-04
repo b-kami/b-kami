@@ -16,8 +16,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python script         | <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
-|conifiguration server web apache| <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
-|virtualisation/virtu_malmachine|<a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>|
+|conifiguration server web apache| <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>,<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
+|virtualisation/virtu_malmachine|<a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>,<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
+|SSH Configuration/Parallel SSH (PSSH)|<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
@@ -44,4 +45,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>
+- <a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>
 - SOC Automation Project
