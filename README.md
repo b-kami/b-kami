@@ -19,7 +19,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |conifiguration server web apache| <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>,<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
 |virtualisation/virtu_malmachine|<a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>,<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
 |SSH Configuration/Parallel SSH (PSSH)|<a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DoS-Attack-and-Detection-Project</a>|
+| Azure | <a href="https://github.com/b-kami/honeypot-in-azur-T-POT-">honeypot-in-azur-T-POT</a>|
+| honeypot | <a href="https://github.com/b-kami/honeypot-in-azur-T-POT-">honeypot-in-azur-T-POT</a>|
 
 
 ## Tools
