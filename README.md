@@ -48,4 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/b-kami/Unrestricted-Resource-Consumption">Unrestricted Resource Consumption</a>
 - <a href="https://github.com/b-kami/DDoS-Attack-and-Detection-Project">DDoS Attack and Detection Project</a>
-- SOC Automation Project
+- <a href="https://github.com/b-kami/honeypot-in-azur-T-POT-">HOonneypot in azur TPOT</a>
