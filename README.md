@@ -23,6 +23,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Azure | <a href="https://github.com/b-kami/honeypot-in-azur-T-POT-">honeypot-in-azur-T-POT</a>|
 | honeypot | <a href="https://github.com/b-kami/honeypot-in-azur-T-POT-">honeypot-in-azur-T-POT</a>|
 | Nmap | <a href="https://github.com/b-kami/Nmap-Network-Mapper-">Nmap Network Mapper</a>|
+| HAproxy-Load balancing | <a href="https://github.com/b-kami/Network-Redundancy-with-Apache-and-HAProxy">Network Redundancy with Apache and HAProxy</a>|
+| apache | <a href="https://github.com/b-kami/Network-Redundancy-with-Apache-and-HAProxy">Network Redundancy with Apache and HAProxy</a>|
+| Keepalived  | <a href="https://github.com/b-kami/Network-Redundancy-with-Apache-and-HAProxy">Network Redundancy with Apache and HAProxy</a>|
 
 ## Tools
 
